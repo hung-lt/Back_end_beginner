@@ -1,0 +1,30 @@
+﻿@model List<ReceivingParameter.Models.Customer>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container">
+    <h3>Danh sach khach hang</h3>
+    <a href="/Customer/Create" class="btn btn-primary mb-3">Them moi</a>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Ma khach hang</th>
+                <th>Ho ten</th>
+                <th>Dia chi</th>
+                <th>Dien thoai</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Address</td>
+                    <td>@item.Phone</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
