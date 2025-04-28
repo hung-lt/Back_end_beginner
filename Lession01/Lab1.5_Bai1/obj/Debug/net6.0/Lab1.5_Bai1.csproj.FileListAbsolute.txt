@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\Lab1.5_Bai1\bin\Debug\net6.0\Lab1.5_Bai1.exe
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\Lab1.5_Bai1\bin\Debug\net6.0\Lab1.5_Bai1.deps.json
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\Lab1.5_Bai1\bin\Debug\net6.0\Lab1.5_Bai1.runtimeconfig.json
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\Lab1.5_Bai1\bin\Debug\net6.0\Lab1.5_Bai1.dll
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\Lab1.5_Bai1\bin\Debug\net6.0\Lab1.5_Bai1.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\Lab1.5_Bai1\obj\Debug\net6.0\Lab1.5_Bai1.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\Lab1.5_Bai1\obj\Debug\net6.0\Lab1.5_Bai1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\Lab1.5_Bai1\obj\Debug\net6.0\Lab1.5_Bai1.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\Lab1.5_Bai1\obj\Debug\net6.0\Lab1.5_Bai1.AssemblyInfo.cs
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\Lab1.5_Bai1\obj\Debug\net6.0\Lab1.5_Bai1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\Lab1.5_Bai1\obj\Debug\net6.0\Lab1.5_Bai1.dll
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\Lab1.5_Bai1\obj\Debug\net6.0\refint\Lab1.5_Bai1.dll
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\Lab1.5_Bai1\obj\Debug\net6.0\Lab1.5_Bai1.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\Lab1.5_Bai1\obj\Debug\net6.0\Lab1.5_Bai1.genruntimeconfig.cache
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\Lab1.5_Bai1\obj\Debug\net6.0\ref\Lab1.5_Bai1.dll

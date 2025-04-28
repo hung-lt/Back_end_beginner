@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocGenerics\bin\Debug\net6.0\HocGenerics.exe
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocGenerics\bin\Debug\net6.0\HocGenerics.deps.json
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocGenerics\bin\Debug\net6.0\HocGenerics.runtimeconfig.json
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocGenerics\bin\Debug\net6.0\HocGenerics.dll
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocGenerics\bin\Debug\net6.0\HocGenerics.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocGenerics\obj\Debug\net6.0\HocGenerics.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocGenerics\obj\Debug\net6.0\HocGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocGenerics\obj\Debug\net6.0\HocGenerics.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocGenerics\obj\Debug\net6.0\HocGenerics.AssemblyInfo.cs
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocGenerics\obj\Debug\net6.0\HocGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocGenerics\obj\Debug\net6.0\HocGenerics.dll
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocGenerics\obj\Debug\net6.0\refint\HocGenerics.dll
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocGenerics\obj\Debug\net6.0\HocGenerics.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocGenerics\obj\Debug\net6.0\HocGenerics.genruntimeconfig.cache
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocGenerics\obj\Debug\net6.0\ref\HocGenerics.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocAnyc\bin\Debug\net6.0\HocAnyc.exe
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocAnyc\bin\Debug\net6.0\HocAnyc.deps.json
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocAnyc\bin\Debug\net6.0\HocAnyc.runtimeconfig.json
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocAnyc\bin\Debug\net6.0\HocAnyc.dll
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocAnyc\bin\Debug\net6.0\HocAnyc.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocAnyc\obj\Debug\net6.0\HocAnyc.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocAnyc\obj\Debug\net6.0\HocAnyc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocAnyc\obj\Debug\net6.0\HocAnyc.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocAnyc\obj\Debug\net6.0\HocAnyc.AssemblyInfo.cs
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocAnyc\obj\Debug\net6.0\HocAnyc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocAnyc\obj\Debug\net6.0\HocAnyc.dll
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocAnyc\obj\Debug\net6.0\refint\HocAnyc.dll
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocAnyc\obj\Debug\net6.0\HocAnyc.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocAnyc\obj\Debug\net6.0\HocAnyc.genruntimeconfig.cache
+C:\Users\Admin\Documents\Zalo Received Files\Back_end\Lession01\HocAnyc\obj\Debug\net6.0\ref\HocAnyc.dll
