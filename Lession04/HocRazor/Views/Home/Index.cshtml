@@ -1,0 +1,80 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@{
+    // Code C# viết tại đây
+    int x = 10;
+}
+<p>Giá trị của x: @x</p>
+
+<!-- Cấu trúc rẽ nhánh-->
+
+@if (x%2 ==0) {
+    <p>@x là số chẵn</p>
+}
+else{
+    <p>@x là số lẻ</p>
+}
+
+<!-- Cấu trúc lựa chọn switch...case-->
+
+@{
+    int thang = 4;
+}
+
+@switch(thang)
+{
+
+    case 1:
+    case 3:
+    case 5:
+    case 7: 
+    case 8:
+    case 10:
+    case 12:
+        <p>Thang @thang có 31 ngày</p>
+        break;
+
+    case 4:
+    case 6:
+    case 9:
+    case 11:
+        <p>Thang @thang có 30 ngày</p>
+        break;
+    case 2: 
+        < p > Thang @thang có 30 ngày </ p >
+        break;
+}
+
+<!--Cấu trúc lặp-->
+@{ int i =0;
+} 
+
+@* @while(i<5){
+@*     <p>@i</p>
+@*     i++; *@
+@* } *@
+
+@do
+{
+    <p>@i</p>
+    i++;
+}while (i<5);
+
+@for(int j =0; j<5; j++)
+{
+    <p>Giá trị j @j</p>
+}
+
+@{
+    List<string> flowers = new List<string>()
+    {
+        "Lan", "Đào", "Huệ"
+    };
+
+}
+@foreach (var item in flowers)
+{
+    <p>Hoa @item</p>
+}

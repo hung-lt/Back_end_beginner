@@ -1,0 +1,37 @@
+﻿@model List<HocDataTransfer.Models.Customer>
+@{
+    ViewData["Title"] = "Home Page";
+    var name = ViewData["name"] as List<string> ?? new List<string>();
+}
+
+<div class="container">
+    <p class="alert alert-primary">Dữ liệu từ ViewBag: @ViewBag.message1</p>
+    <p class="alert alert-danger">Đây là dữ liệu từ ViewData: @ViewData["name"]</p>
+    @foreach(var item in name)
+    {
+        <p>@item</p>
+    }
+    <p class="alert alert-warning">Đây là dữ liệu từ TempData: @TempData["message3"]</p>
+
+    <h3>Danh sách khách hàng</h3>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Mã khách hàng</th>
+                <th>Họ tên</th>
+                <th>Địa chỉ</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in Model)
+            {
+                <tr> 
+                    <td> @item.Id</td>
+                    <td> @item.Name</td>
+                    <td> @item.Phone</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

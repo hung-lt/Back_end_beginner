@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BA-CNTT1710\\Lession04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C63A0EB9-C525-4DE0-B552-ED51C931F90E}|HocDataTransfer\\HocDataTransfer.csproj|c:\\ba-cntt1710\\lession04\\hocdatatransfer\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C63A0EB9-C525-4DE0-B552-ED51C931F90E}|HocDataTransfer\\HocDataTransfer.csproj|solutionrelative:hocdatatransfer\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63A0EB9-C525-4DE0-B552-ED51C931F90E}|HocDataTransfer\\HocDataTransfer.csproj|c:\\ba-cntt1710\\lession04\\hocdatatransfer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C63A0EB9-C525-4DE0-B552-ED51C931F90E}|HocDataTransfer\\HocDataTransfer.csproj|solutionrelative:hocdatatransfer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63A0EB9-C525-4DE0-B552-ED51C931F90E}|HocDataTransfer\\HocDataTransfer.csproj|c:\\ba-cntt1710\\lession04\\hocdatatransfer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63A0EB9-C525-4DE0-B552-ED51C931F90E}|HocDataTransfer\\HocDataTransfer.csproj|solutionrelative:hocdatatransfer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63A0EB9-C525-4DE0-B552-ED51C931F90E}|HocDataTransfer\\HocDataTransfer.csproj|c:\\ba-cntt1710\\lession04\\hocdatatransfer\\views\\home\\getdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C63A0EB9-C525-4DE0-B552-ED51C931F90E}|HocDataTransfer\\HocDataTransfer.csproj|solutionrelative:hocdatatransfer\\views\\home\\getdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63A0EB9-C525-4DE0-B552-ED51C931F90E}|HocDataTransfer\\HocDataTransfer.csproj|c:\\ba-cntt1710\\lession04\\hocdatatransfer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63A0EB9-C525-4DE0-B552-ED51C931F90E}|HocDataTransfer\\HocDataTransfer.csproj|solutionrelative:hocdatatransfer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63A0EB9-C525-4DE0-B552-ED51C931F90E}|HocDataTransfer\\HocDataTransfer.csproj|c:\\ba-cntt1710\\lession04\\hocdatatransfer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C63A0EB9-C525-4DE0-B552-ED51C931F90E}|HocDataTransfer\\HocDataTransfer.csproj|solutionrelative:hocdatatransfer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63A0EB9-C525-4DE0-B552-ED51C931F90E}|HocDataTransfer\\HocDataTransfer.csproj|c:\\ba-cntt1710\\lession04\\hocdatatransfer\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63A0EB9-C525-4DE0-B552-ED51C931F90E}|HocDataTransfer\\HocDataTransfer.csproj|solutionrelative:hocdatatransfer\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\BA-CNTT1710\\Lession04\\HocDataTransfer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HocDataTransfer\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\BA-CNTT1710\\Lession04\\HocDataTransfer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HocDataTransfer\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:02:12.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\BA-CNTT1710\\Lession04\\HocDataTransfer\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "HocDataTransfer\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\BA-CNTT1710\\Lession04\\HocDataTransfer\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "HocDataTransfer\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T03:21:55.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BA-CNTT1710\\Lession04\\HocDataTransfer\\Program.cs",
+              "RelativeDocumentMoniker": "HocDataTransfer\\Program.cs",
+              "ToolTip": "C:\\BA-CNTT1710\\Lession04\\HocDataTransfer\\Program.cs",
+              "RelativeToolTip": "HocDataTransfer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:16:24.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\BA-CNTT1710\\Lession04\\HocDataTransfer\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "HocDataTransfer\\Models\\Customer.cs",
+              "ToolTip": "C:\\BA-CNTT1710\\Lession04\\HocDataTransfer\\Models\\Customer.cs",
+              "RelativeToolTip": "HocDataTransfer\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T02:04:46.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetData.cshtml",
+              "DocumentMoniker": "C:\\BA-CNTT1710\\Lession04\\HocDataTransfer\\Views\\Home\\GetData.cshtml",
+              "RelativeDocumentMoniker": "HocDataTransfer\\Views\\Home\\GetData.cshtml",
+              "ToolTip": "C:\\BA-CNTT1710\\Lession04\\HocDataTransfer\\Views\\Home\\GetData.cshtml",
+              "RelativeToolTip": "HocDataTransfer\\Views\\Home\\GetData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T01:56:05.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\BA-CNTT1710\\Lession04\\HocDataTransfer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HocDataTransfer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\BA-CNTT1710\\Lession04\\HocDataTransfer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HocDataTransfer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T01:20:01.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\BA-CNTT1710\\Lession04\\HocDataTransfer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HocDataTransfer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\BA-CNTT1710\\Lession04\\HocDataTransfer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HocDataTransfer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T01:06:15.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

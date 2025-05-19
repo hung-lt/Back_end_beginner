@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<a href="/Product/Create" class="btn btn-danger">Them moi</a>
+@* HTML liên kết *@
+@Html.ActionLink("Thêm mới", "Create", "Product", null, new {@class = "btn btn-danger"})
+
+<!--Viết bằng thẻ Tag Helper-->
+
+<a asp-action="Create", asp-controller="Product" class="btn btn-danger">Thêm mới</a>
+

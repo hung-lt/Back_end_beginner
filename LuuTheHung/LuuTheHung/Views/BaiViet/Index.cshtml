@@ -1,0 +1,30 @@
+﻿@model List<BaiViet>
+@{
+    ViewData["Title"] = "Index";
+}
+ 
+<div class="container" action="POST">
+<h3>DANH SÁCH BÀI VIẾT</h3>
+<a class="btn btn-primary mb-2" href="/BaiViet/create">Thêm mới</a>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Mã bài viết</th>
+            <th>Tiêu đề</th>
+            <th>Nội dung</th>
+            <th>Ngày đăng</th> 
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.MaBaiViet</td>
+                <td>@item.TieuDe</td>
+                <td>@item.NoiDung</td>
+                <td>@item.NgayDang</td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>
