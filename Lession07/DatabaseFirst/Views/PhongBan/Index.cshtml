@@ -1,0 +1,33 @@
+﻿@model List<DatabaseFirst.Models.PhongBan>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container col-md-10">
+    <h3>Danh sách phòng ban</h3>
+	<a href="/PhongBan/Create" class="btn btn-danger mb-3">Them moi</a>
+    <table class="table">
+        <thead>
+			<tr>
+				<th>Mã phòng</th>
+				<th>Tên phòng</th>
+				<th>Điện thoại</th>
+				<th>Chuc nang</th>
+			</tr>
+        </thead>
+        <tbody>
+			@foreach (var item in Model)
+			{
+				<tr>
+					<td>@item.MaPhong</td>
+					<td>@item.TenPhong</td>
+					<td>@item.DienThoai</td>
+					<td>
+						<a herf="/PhongBan/Edit/@item.MaPhong" class="btn btn-warning btn-sm">Sua</a>
+						<a herf="/PhongBan/Delete/@item.MaPhong" class="btn btn-warning btn-sm" onclick="return confirm('Ban co dong y xoa?);">Xoa</a>
+					</td>
+				</tr>
+			}
+        </tbody>
+    </table>
+</div>

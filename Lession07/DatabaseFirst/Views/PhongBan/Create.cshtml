@@ -1,0 +1,30 @@
+﻿@model DatabaseFirst.Models.PhongBan
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="container col-md-8">
+    <div class="card shadow">
+        <div class="card-header">
+            <h5 class="card-title">Them moi phong ban</h5>
+        </div>
+        <div class="card-body">
+            <form action="/PhongBan/Create" method="post">
+                <div class="mt-3">
+                    <label asp-for="MaPhong">Ma Phong</label>
+                    <input asp-for="MaPhong" class="form-control"/>
+                </div>
+                <div class="mt-3">
+                    <label asp-for="TenPhong">Ten Phong</label>
+                    <input asp-for="TenPhong" class="form-control"/>
+                </div>
+                <div class="mt-3">
+                    <label asp-for="DienThoai">Dien Thoai</label>
+                    <input asp-for="DienThoai" class="form-control"/>
+                </div>
+                <button type="submit" class="btn btn-primary mt-3">Them moi</button>
+            </form>
+        </div>
+    </div>
+</div>
+
